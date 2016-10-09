@@ -32,8 +32,6 @@ public class LoginFrame extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
         btnLogin = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
-        jButton3 = new javax.swing.JButton();
         jPanel2 = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -49,12 +47,6 @@ public class LoginFrame extends javax.swing.JFrame {
             }
         });
         jPanel1.add(btnLogin);
-
-        jButton2.setText("jButton2");
-        jPanel1.add(jButton2);
-
-        jButton3.setText("jButton3");
-        jPanel1.add(jButton3);
 
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("rgrtrt"));
 
@@ -134,8 +126,6 @@ public class LoginFrame extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnLogin;
-    private javax.swing.JButton jButton2;
-    private javax.swing.JButton jButton3;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
     // End of variables declaration//GEN-END:variables
